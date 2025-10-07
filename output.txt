@@ -1,0 +1,13 @@
+Enter the number of teaspoons: 16
+0 quart(s)
+1 cup(s)
+0 tablespoon(s)
+0 teaspoon(s)
+
+Enter the number of teaspoons: 500
+2 quart(s)
+2 cup(s)
+6 tablespoon(s)
+2 teaspoon(s)
+
+
